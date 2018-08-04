@@ -1,0 +1,86 @@
+<folders>
+    <folder name="dir1">
+        <permission right="R" id="Louis"/>
+        <permission right="R" id="Angela"/>
+        <permission right="R" id="Martin"/>
+        <permission right="R" id="Chloe"/>
+        <folder name="dir11">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+        <folder name="log">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+    </folder>
+
+    <folder name="dir1.5">
+        <permission right="R" id="Louis"/>
+        <permission right="R" id="Angela"/>
+        <permission right="R" id="Martin"/>
+        <folder name="dir1.51">
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+    </folder>
+    <folder name="dir2">
+        <permission right="R" id="Louis"/>
+        <permission right="R" id="Angela"/>
+        <permission right="R" id="Martin"/>
+        <permission right="R" id="Chloe"/>
+        <folder name="dir21">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+        <folder name="dir22">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+            <folder name="dir221">
+                <permission right="R" id="Louis"/>
+                <permission right="R" id="Angela"/>
+                <permission right="R" id="Martin"/>
+                <permission right="R" id="Chloe"/>
+            </folder>
+            <folder name="dir222">
+                <permission right="R" id="Louis"/>
+                <permission right="R" id="Angela"/>
+                <permission right="R" id="Martin"/>
+                <permission right="R" id="Chloe"/>
+            </folder>
+            <folder name="dir223">
+                <permission right="R" id="Louis"/>
+                <permission right="R" id="Angela"/>
+                <permission right="R" id="Martin"/>
+                <permission right="R" id="Chloe"/>
+            </folder>
+        </folder>
+
+        <folder name="dir23">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+        <folder name="log">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+        <folder name="dir25">
+            <permission right="R" id="Louis"/>
+            <permission right="R" id="Angela"/>
+            <permission right="R" id="Martin"/>
+            <permission right="R" id="Chloe"/>
+        </folder>
+    </folder>
+
+</folders>
