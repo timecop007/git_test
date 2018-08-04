@@ -72,14 +72,12 @@
         <folder name="log">
             <permission right="R" id="Louis"/>
             <permission right="R" id="Angela"/>
-            <permission right="R" id="Martin"/>
             <permission right="R" id="Chloe"/>
         </folder>
         <folder name="dir25">
             <permission right="R" id="Louis"/>
             <permission right="R" id="Angela"/>
             <permission right="R" id="Martin"/>
-            <permission right="R" id="Chloe"/>
         </folder>
     </folder>
 
