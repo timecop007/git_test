@@ -17,5 +17,3 @@ uat mod1
 uat mod2
 dev mod1 after merge
 dev mod2 after merge
-s1
-s2
