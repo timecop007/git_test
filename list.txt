@@ -19,3 +19,4 @@ dev mod1 after merge
 dev mod2 after merge
 w1
 w2
+test gitkraken
